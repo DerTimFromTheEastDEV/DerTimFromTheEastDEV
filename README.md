@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @DerTimFromTheEastDEV
+- 👀 I’m interested in Developing Games
+- 🌱 I’m currently learning C++
+- 📫 How to reach me dertimfromtheeast@gmail.com
